@@ -1,8 +1,10 @@
 package firstgamejava.view;
 
 import java.awt.Color;
+import java.util.ArrayList;
+import java.util.List;
 
-   import javax.swing.JPanel;
+import javax.swing.JPanel;
 
 public class Painel extends JPanel {
 

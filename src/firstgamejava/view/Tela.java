@@ -15,6 +15,7 @@ public class Tela extends JFrame {
 	
 	private static final long serialVersionUID = 1L;
 	private JLabel label, bola;
+	private Painel panel;
 	private Painel quadrado, quadrado1, quadrado2, quadrado3, quadrado4, quadrado5, quadrado6, quadrado7
 				, quadrado8, quadrado9, quadrado10, quadrado11, quadrado12, quadrado13, quadrado14
 				, quadrado15, quadrado16, quadrado17, quadrado18, quadrado19, quadrado20, quadrado21
@@ -218,50 +219,6 @@ public class Tela extends JFrame {
 				
 			}else if(auxY > 550) {
 				stopGame();
-				quadrado.desaparecer();
-				quadrado1.desaparecer();
-				quadrado2.desaparecer();
-				quadrado3.desaparecer();
-				quadrado4.desaparecer();
-				quadrado5.desaparecer();
-				quadrado6.desaparecer();
-				quadrado7.desaparecer();
-				quadrado8.desaparecer();
-				quadrado9.desaparecer();
-				quadrado10.desaparecer();
-				quadrado11.desaparecer();
-				quadrado12.desaparecer();
-				quadrado13.desaparecer();
-				quadrado14.desaparecer();
-				quadrado15.desaparecer();
-				quadrado16.desaparecer();
-				quadrado17.desaparecer();
-				quadrado18.desaparecer();
-				quadrado19.desaparecer();
-				quadrado20.desaparecer();
-				quadrado21.desaparecer();
-				quadrado22.desaparecer();
-				quadrado23.desaparecer();
-				quadrado24.desaparecer();
-				quadrado25.desaparecer();
-				quadrado26.desaparecer();
-				quadrado27.desaparecer();
-				quadrado28.desaparecer();
-				quadrado29.desaparecer();
-				quadrado30.desaparecer();
-				quadrado31.desaparecer();
-				quadrado32.desaparecer();
-				quadrado33.desaparecer();
-				quadrado34.desaparecer();
-				quadrado35.desaparecer();
-				quadrado36.desaparecer();
-				quadrado37.desaparecer();
-				quadrado38.desaparecer();
-				quadrado39.desaparecer();
-				quadrado40.desaparecer();
-				quadrado41.desaparecer();
-				quadrado42.desaparecer();
-				quadrado43.desaparecer();
 				break;
 			}
 			
